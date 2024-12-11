@@ -26,7 +26,7 @@ class Product
                System.out.println("Product Price:"+price);
     }
 }
-public class Practical2
+class Practical2
 {
     public static void main(String[] args)
     {
